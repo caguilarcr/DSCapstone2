@@ -1,0 +1,12 @@
+quiz.R
+data/*
+.Rproj*
+.Rproj.user
+Report_cache
+Report_files
+ml-10M100K
+0_initializing_data.R
+Report.html
+.Rhistory
+rdas
+*.zip
